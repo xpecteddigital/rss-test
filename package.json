@@ -1,0 +1,12 @@
+{
+  "name": "rss-parser-app",
+  "version": "1.0.0",
+  "description": "Application pour lire un flux RSS avec Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  }
+}

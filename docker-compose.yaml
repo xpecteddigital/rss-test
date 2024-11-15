@@ -1,0 +1,5 @@
+services:
+  rss-parser:
+    build: .
+    container_name: rss-parser-app
+    restart: unless-stopped
